@@ -1,0 +1,14 @@
+be\lennertsoffers\easypersistence\annotations\Column.class
+be\lennertsoffers\easypersistence\EntityProcessor.class
+be\lennertsoffers\easypersistence\models\EntityTable.class
+be\lennertsoffers\easypersistence\utils\StringUtils.class
+be\lennertsoffers\easypersistence\annotations\PrimaryKey.class
+be\lennertsoffers\easypersistence\ContractGenerator.class
+be\lennertsoffers\easypersistence\annotations\Configure.class
+be\lennertsoffers\easypersistence\models\EntityColumn.class
+be\lennertsoffers\easypersistence\models\generators\Generator.class
+be\lennertsoffers\easypersistence\annotations\Entity.class
+be\lennertsoffers\easypersistence\DatabaseGenerator.class
+be\lennertsoffers\easypersistence\models\generators\SourceFileGenerator.class
+be\lennertsoffers\easypersistence\RepositoryGenerator.class
+META-INF\services\javax.annotation.processing.Processor
